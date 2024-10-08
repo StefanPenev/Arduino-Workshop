@@ -45,9 +45,12 @@ changes.
 
 ##Project video and photos
 
-- [Photo 1](1000025230.jpg)
-- [Photo 2](1000025236.jpg)
-- [Video](1000025235.mp4)
+- ![Photo 1](1000025230.jpg)
+- ![Photo 2](1000025236.jpg)
+- <video width="600" controls>
+  <source src="1000025235.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Software and Code

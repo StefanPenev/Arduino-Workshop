@@ -28,9 +28,9 @@ The workshop consists of 4 progressively challenging projects. Each project will
 
 2. **[LCD Control](https://github.com/benanredzhebov/Arduino_Uno_Workshop/tree/main/ex01%20-%20LCD%20control)**
 
-3. **Project 3 (Coming Soon):**
+3. **[Servo Control](https://github.com/benanredzhebov/Arduino/blob/main/ex02%20-%20Servo%20control/README.md)**
 
-4. **Project 4 (Coming Soon):**
+4. **[Webserver Control](https://github.com/benanredzhebov/Arduino/blob/main/ex03%20-%20Webserver%20control/README.md)**
 
 ## Tools and Materials
 
